@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kwame Ansere Ofori-Mensah / Site Title"
+title                    : "Kwame Ansere Ofori-Mensah / nana"
 title_separator          : "-"
 name                     : &name "Kwame Ansere Ofori-Mensah"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Nana's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://kaoforimensah.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Nana" # Your Sidebar Name
+  pronouns         : "he/his/him" # example: "she/her"  
+  bio              : "Phd Student in Methods and Models for Economic Decisions"
+  location         : "Italy"
+  employer         : "University of Insubria"
+  uri              : "https://sites.google.com/view/ansere/home" # URL
+  email            : "kaoforimensah@uninsubria.it" 
 
   # Academic websites
   academia         : # URL
