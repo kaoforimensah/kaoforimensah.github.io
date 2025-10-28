@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Methods and Models for Economic Decision, University of Insubria, 2025 (expected)
+* M.S.c in Quantitative Economics, University of Alicante, 2020
+* MPhil in Economics, Kwame Nkumah University of Science and Technology, 2018
+* B.A. in Economis, Kwame Nkumah University of Science and Technology, 2015
 
 Work experience
 ======
