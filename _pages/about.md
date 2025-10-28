@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Kwame Ansere Ofori-Mensah"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+My name is Kwame Ansere Ofori-Mensah, and I am a Phd student at the Department of Economics, University of Insubria, Varese, Italy and currently a visiting Phd student at the Department of Applied Economics, University of Granada. 
+I completed my Master's in Quantitative Economics at University of Alicante in 2020. I earned another Master’s degree in Economics at Kwame Nkrumah University of Science and Technology (KNUST) in 2018 and Bachelor’s degree in 2015 from KNUST. I am interested in the field of Applied Economics, Health Economics, Labor Economics,Energy Economics, Applied Econometrics. My current research focuses mainly on Health Economics. 
+To get in touch, please email me at: kaoforimensah@uninsubria.it 
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
